@@ -28,12 +28,12 @@ export default function Copyright() {
                 <div className="grp-name">
                     <Image src={ logo } className="cpr-logo" /> <span> ™️ </span> 
                 </div>
-
+                
                 <div className="policy">
-                    <span> <Link href="/privacy-policy">• Payment Policy </Link> </span>
-                    <span> <Link href="/privacy-policy">• Terms and Condition </Link> </span>
-                    <span> <Link href="/privacy-policy">• Privacy Policy </Link> </span>
-                    <span> <Link href="/privacy-policy">• Opt Out </Link> </span>
+                    <span> <Link href="/payment">• Payment Policy </Link> </span>
+                    <span> <Link href="/terms">• Terms and Condition </Link> </span>
+                    <span> <Link href="/privacy">• Privacy Policy </Link> </span>
+                    <span> <Link href="/optOut">• Opt Out </Link> </span>
                 </div>
             </Wrapper>
         </Center>

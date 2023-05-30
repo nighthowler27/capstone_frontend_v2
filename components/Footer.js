@@ -97,7 +97,7 @@ export default function Footer() {
                     <li>Auction</li>
                 </ul>
                 <ul>
-                    <li>Testimonials</li>
+                    <li><Link href="/testimonials">Testimonials</Link></li>
                     <li>Costumer Support</li>
                     <li>Technical Support</li>
                     <li>Careers</li>
